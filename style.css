@@ -56,3 +56,12 @@ body {
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
   white-space: nowrap;
 }
+
+.line {
+  font-size: 28px;
+  line-height: 1.5;
+  max-width: 720px;
+  margin: 0 auto;
+  letter-spacing: 0.02em;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+}
